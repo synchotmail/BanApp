@@ -430,3 +430,6 @@ FodyWeavers.xsd
 *.msp
 *.bat
 *.exe
+*.json
+*.tmp
+*.py

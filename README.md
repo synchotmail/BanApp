@@ -29,7 +29,9 @@
 
 ### 软件下载安装
 
-- 右侧点击Release，或打开https://github.com/synchotmail/BanApp/releases
+- 右侧点击Release下载
+| ⚡ 国内Gitee下载地址：https://gitee.com/m1977/BanApp/releases
+| ⚡ 国内Gitee下载地址：https://github.com/synchotmail/BanApp/releases
 - 下载最新版本的BanClient.exe文件
 - 免安装，正常情况下载后双击直接打开使用
 
