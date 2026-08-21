@@ -35,8 +35,10 @@
 
 | ⚡ 国外Github下载地址：https://github.com/synchotmail/BanApp/releases
 
-- 下载最新版本的BanClient.exe文件
-- 免安装，正常情况下载后双击直接打开使用
+- 下载最新版本的BanClient_v3.0.exe文件
+- 双击BanClient_v3.0.exe自解压免安装（有安全软件会报病毒告警，请忽略）
+- 自解压完成后，桌面找到快捷方式“连板工具”，双击打开工具软件
+
 
 ### 联系作者
 
