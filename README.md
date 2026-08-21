@@ -33,6 +33,10 @@
 - 下载最新版本的BanClient.exe文件
 - 免安装，正常情况下载后双击直接打开使用
 
+### 联系作者
+
+- **微信： 18301001977**
+
 
 
 <img width="1363" height="728" alt="image" src="https://github.com/user-attachments/assets/3cda84a8-bd05-4f7d-aa6f-b6ef00580f66" />
