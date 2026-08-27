@@ -36,7 +36,7 @@
 | ⚡ 国外Github下载地址：https://github.com/synchotmail/BanApp/releases
 
 - 下载最新版本的BanSetup.msi文件。
-- 双击BanSetup.exe文件安装
+- 双击BanSetup.msi文件安装
 - 安装完成后，桌面找到快捷方式“连板工具”，双击打开工具软件
 
 
